@@ -1,7 +1,5 @@
 # https://leetcode.com/problems/number-of-islands/
 
-
-
 def numIslands(grid):
     m = len(grid)
     n = len(grid[0])
